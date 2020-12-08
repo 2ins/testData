@@ -1,1 +1,1 @@
-[{"path":[0],"keywords":["k1"],"inherited":[],"id":"chepppal","type":"rec"},{"path":[0,1,0],"keywords":["k2"],"inherited":["k1"],"id":"chepppal","type":"rec"}]
+[{"path":[0],"total":["k1"],"keywords":["k1"],"inherited":[],"id":"chepppal","type":"rec"},{"path":[0,1,0],"total":["k1","k2"],"keywords":["k2"],"inherited":["k1"],"id":"chepppal","type":"rec"}]

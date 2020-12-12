@@ -1,0 +1,95 @@
+{
+  "elems":[
+    {
+      "type":"s",
+      "desc":"Vomiting",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"RIF pain",
+      "score":1
+    },
+    {
+      "type":"m",
+      "question":"Rebound tenderness",
+      "textpoints":[
+        {
+          "desc":"None",
+          "score":0
+        },
+        {
+          "desc":"Light",
+          "score":1
+        },
+        {
+          "desc":"Medium",
+          "score":2
+        },
+        {
+          "desc":"Strong",
+          "score":3
+        }
+      ]
+    },
+    {
+      "type":"s",
+      "desc":"Temp ≥101.3ºF (38.5ºC)",
+      "score":1
+    },
+    {
+      "type":"m",
+      "question":"Polymorphonuclear leukocytes",
+      "textpoints":[
+        {
+          "desc":"<70%",
+          "score":0
+        },
+        {
+          "desc":"70–84%",
+          "score":1
+        },
+        {
+          "desc":"≥85%",
+          "score":2
+        }
+      ]
+    },
+    {
+      "type":"m",
+      "question":"WBC count, ×10⁹/L",
+      "textpoints":[
+        {
+          "desc":"<10",
+          "score":0
+        },
+        {
+          "desc":"10.0–14.9",
+          "score":1
+        },
+        {
+          "desc":"≥15",
+          "score":2
+        }
+      ]
+    },
+    {
+      "type":"m",
+      "question":"CRP level, mg/L",
+      "textpoints":[
+        {
+          "desc":"<10",
+          "score":0
+        },
+        {
+          "desc":"10–49",
+          "score":1
+        },
+        {
+          "desc":"≥50",
+          "score":2
+        }
+      ]
+    }
+  ]
+}

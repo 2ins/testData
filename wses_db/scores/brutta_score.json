@@ -1,25 +1,15 @@
 {
   "score": {
     "schema": {
-      "type": "AIR",
+      "type": "SNG_NO_MSG",
       "message": ""
     },
     "ranges": [
       {
         "points": 0,
-        "value": "Low",
-        "extras":["Outpatient follow-up (if unaltered general condition)"]
-      },
-      {
-        "points": 5,
-        "value": "Indeterminate",
-        "extras":["In-hospital active observation with serial re-exams, imaging, or diagnostic laparoscopy, according to local practice"]
-      },
-      {
-        "points": 9,
-        "value": "High",
-        "extras":["Surgical exploration"]
+        "value": "defalut value"
       }
+      
     ]
   }
 }

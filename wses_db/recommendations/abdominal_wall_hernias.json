@@ -1,0 +1,206 @@
+{
+   "value":"emergency repair of complicated abdominal wall hernias\n",
+   "level":0,
+   "children":[
+      {
+         "value":"Timing of intervention",
+         "level":1,
+         "gor":"None",
+         "children":[
+            {
+               "value":"Patients should undergo emergency hernia repair immediately when intestinal strangulation is suspected",
+               "level":2,
+               "gor":"_1C",
+               "children":[
+
+               ]
+            },
+            {
+               "value":"Systemic inflammatory response syndrome (SIRS), contrast-enhanced CT findings, as well as lactate, CPK, and D-dimer levels are predictive of bowel strangulation",
+               "level":2,
+               "gor":"_1C",
+               "children":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "value":"Laparoscopic approach",
+         "level":1,
+         "gor":"None",
+         "children":[
+            {
+               "value":"Diagnostic laparoscopy may be a useful tool with the target of assessing bowel viability after spontaneous reduction of strangulated groin hernias",
+               "level":2,
+               "gor":"_2B",
+               "children":[
+
+               ]
+            },
+            {
+               "value":"Repair of incarcerated hernias—both ventral and groin—may be performed with a laparoscopic approach in the absence of strangulation and suspicion of the need of bowel resection, where an open preperitoneal approach is preferable",
+               "level":2,
+               "gor":"_2C",
+               "children":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "value":"Emergency hernia repair in “clean surgical field” (CDC wound class I)",
+         "level":1,
+         "gor":"None",
+         "children":[
+            {
+               "value":"The use of mesh in clean surgical fields (CDC wound class I) is associated with a lower recurrence rate, if compared to tissue repair, without an increase in the wound infection rate. Prosthetic repair with a synthetic mesh is recommended for patients with intestinal incarceration and no signs of intestinal strangulation or concurrent bowel resection (clean surgical field) Emergency hernia repair in “clean-contaminated surgical field” (CDC wound class II)",
+               "level":2,
+               "gor":"_1A",
+               "children":[
+
+               ]
+            },
+            {
+               "value":"For patients having complicated hernia with intestinal strangulation and/or concomitant need of bowel resection without gross enteric spillage (clean-contaminated surgical field, CDC wound class II), emergent prosthetic repair with synthetic mesh can be performed (without any increase in 30-day wound-related morbidity) and is associated with a significant lower risk of recurrence, regardless of the size of hernia defect",
+               "level":2,
+               "gor":"_1A",
+               "children":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "value":"Emergency hernia repair in “contaminated-dirty surgical field” (CDC wound classes III and IV)",
+         "level":1,
+         "gor":"None",
+         "children":[
+            {
+               "value":"For stable patients with strangulated hernia with bowel necrosis and/or gross enteric spillage during intestinal resection (contaminated, CDC wound class III) or peritonitis from bowel perforation (dirty surgical",
+               "level":2,
+               "gor":"_2C",
+               "children":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "value":"field, CDC wound class IV), primary repair is recommended when the size of the defect is small (< 3 cm); when direct suture is not feasible, a biological mesh may be used for repair",
+         "level":1,
+         "gor":"None",
+         "children":[
+            {
+               "value":"The choice between a cross-linked and a non-cross-linked biological mesh should be evaluated depending on the defect size and degree of contamination",
+               "level":2,
+               "gor":"_2C",
+               "children":[
+
+               ]
+            },
+            {
+               "value":"If biological mesh is not available, either polyglactin mesh repair or open wound management with delayed repair may be a viable alternative",
+               "level":2,
+               "gor":"_2C",
+               "children":[
+
+               ]
+            },
+            {
+               "value":"For unstable patients (experiencing severe sepsis or septic shock), open management is recommended to prevent abdominal compartment syndrome; intra-abdominal pressure may be measured intraoperatively",
+               "level":2,
+               "gor":"_2C",
+               "children":[
+
+               ]
+            },
+            {
+               "value":"Following stabilization of the patient, surgeons should attempt early, definitive closure of the abdomen. Primary fascial closure may be possible only when the risk of excessive tension or recurrent intra-abdominal",
+               "level":2,
+               "gor":"_2C",
+               "children":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "value":"hypertension (IAH) is minimal",
+         "level":1,
+         "gor":"None",
+         "children":[
+            {
+               "value":"When early definitive fascial closure is not possible, progressive closure can be gradually attempted at every surgical wound revision. Cross-linked biological meshes may be considered as a delayed option for",
+               "level":2,
+               "gor":"_2C",
+               "children":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "value":"abdominal wall reconstruction",
+         "level":1,
+         "gor":"None",
+         "children":[
+            {
+               "value":"When definitive fascial closure cannot be achieved, a skin-only closure is a viable option and subsequent eventration can be managed at a later stage with delayed abdominal closure and synthetic mesh repair",
+               "level":2,
+               "gor":"_1C",
+               "children":[
+
+               ]
+            },
+            {
+               "value":"The component separation technique may be a useful and low-cost option for the repair of large midline abdominal wall hernias",
+               "level":2,
+               "gor":"_1B",
+               "children":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "value":"Antimicrobial prophylaxis",
+         "level":1,
+         "gor":"None",
+         "children":[
+            {
+               "value":"In patients with intestinal incarceration with no evidence of ischaemia and no bowel resection (CDC wound class I), short-term prophylaxis is recommended",
+               "level":2,
+               "gor":"_2C",
+               "children":[
+
+               ]
+            },
+            {
+               "value":"In patients with intestinal strangulation and/or concurrent bowel resection (CDC wound classes II and III), 48-h antimicrobial prophylaxis is recommended",
+               "level":2,
+               "gor":"_2C",
+               "children":[
+
+               ]
+            },
+            {
+               "value":"Antimicrobial therapy is recommended for patients with peritonitis (CDC wound class IV) Anaesthesia",
+               "level":2,
+               "gor":"_2C",
+               "children":[
+
+               ]
+            },
+            {
+               "value":"LA can be used, providing effective anaesthesia with less postoperative complications for emergency inguinal hernia repair in the absence of bowel gangrene",
+               "level":2,
+               "gor":"_1C",
+               "children":[
+
+               ]
+            }
+         ]
+      }
+   ]
+}

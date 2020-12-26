@@ -1,0 +1,406 @@
+{
+  "value":"Management of Clostridioides (Clostridium)  difficile infection in surgical patients \n",
+  "level":0,
+  "children":[
+    {
+      "value":"Recommendations for the management of CDI",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Infection prevention and control",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Proper antibiotic stewardship in both selecting an appropriate antibiotic and optimizing its dose and duration to prevent and cure an infection may prevent the emergence of C. difficile",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"C. difficile carriers should be placed in contact (enteric) precautions",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Hand hygiene with soap and water is the cornerstone of the prevention of C. difficile infection. Hand hygiene, contact precautions, and good cleaning and disinfection of patient care equipment and the environment should be used by all health-care workers in contact with any patient with known or suspected CDI",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Diagnosis",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"The diagnosis of CDI should be based on clinical signs and symptoms in combination with laboratory tests. Stool testing should only be performed on diarrheal stools from at-risk patients with clinically significant diarrhea (≥ 3 loose stools in 24 h) with no obvious alternative explanation",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"For patients with ileus who may be unable to produce stool specimens, polymerase chain reaction testing of perirectal swabs provides an acceptable alternative to stool specimen analysis",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Nucleic acid amplification tests (NAAT) for C. difficile toxin genes appear to be sensitive and specific and may be used as a standard diagnostic test for CDI. NAAT as single-step algorithm can increase detection of asymptomatic colonization, therefore it should be performed in patients with high suspicion for CDI or included in two-step algorithm starting with toxin-EIA",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Glutamate dehydrogenase (GDH) screening tests for C. difficile are sensitive but do not differentiate between toxigenic and non-toxigenic strains. They may be used in association with toxin A/B enzyme immunoassays (EIA) testing. Algorithms including screening with an EIA for GDH followed by a toxin assay may be suggested",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"EIA for toxin A/B is fast and inexpensive and has high specificity but it is not recommended alone due to its relatively low sensitivity",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"C. difficile culture is relatively slow but sensitive. It is rarely performed today as a routine diagnostic test. C. difficile culture is recommended for subsequent epidemiological typing and characterization of strains",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Repeat testing after a first negative sample during the same diarrheal episode may be useful only in selected cases with ongoing clinical suspicion during an epidemic situation or in cases with high clinical suspicion during endemic situations",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"CT imaging is suggested for patients with clinical manifestations of severe-complicated C. difficile colitis; however, its sensitivity is not satisfactory for screening purposes",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Ultrasound may be useful in critically ill patients suspected to have pseudomembranous colitis who cannot be transported to the CT scan suite",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Flexible sigmoidoscopy may be helpful in the diagnosis of C. difficile colitis when there is a high level of clinical suspicion for C. difficile infection",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Antibiotic therapy",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Unnecessary antibiotic agent(s) should be discontinued if CDI is suspected",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Unnecessary PPIs should always be discontinued in patients at high risk for CDI",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Empirical therapy for CDI should be avoided unless there is a strong suspicion for CDI. If a patient has a strong suspicion for severe CDI, empirical therapy for CDI should be considered while awaiting test results",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Oral metronidazole should be limited to the treatment of an initial episode of mild-moderate CDI",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+            {
+              "value":"Oral vancomycin is recommended for treatment of patients with mildmoderate disease who do not respond to metronidazole",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Repeated or prolonged courses of metronidazole should be avoided due to risk of cumulative and potentially irreversible neurotoxicity",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Both oral vancomycin or fidaxomicin are recommended for treatment of all patients with severe CDI",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In patients in whom oral antibiotics cannot reach the colon, vancomycin may be administered as retention enema via a large rectal tube or catheter",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Fidaxomicin may be used to treat CDI, especially in patients at higher risk for recurrence (e.g., elderly patients or those receiving concomitant antibiotics)",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Surgical management",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Patients with severe CDI who progress to systemic toxicity should undergo early surgical consultation and should be evaluated for potential surgical intervention",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Early diagnosis and treatment is important to reduce the mortality associated with fulminant colitis.",
+          "level":2,
+          "gor":"None",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Resection of the entire colon should be considered to treat patients with fulminant colitis",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Patients with fulminant colitis should be treated with high dose vancomycin (500 mg, 6 hourly), oral and/or by enema, in combination with intravenous metronidazole (500 mg, 8 hourly)",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Supportive care",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Early detection of shock and aggressive management of underlying organ dysfunction are essential for improved outcomes in patients with fulminant colitis",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+            {
+              "value":"Supportive measures, including intravenous fluid resuscitation, albumin supplementation, and electrolyte replacement, should be provided to all patients with severe C. difficile infection",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"RCDI",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Agents that may be used to treat the first recurrence of CDI include vancomycin (particularly if metronidazole was used for the first episode) or fidaxomicin.",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Antibiotic treatment options for patients with > 1 recurrence of CDI include oral vancomycin therapy using a tapered and pulsed regimen",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Probiotics",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Limited direct evidence exists to support the use of probiotics in the management of a first episode of CDI as an adjunctive treatment to antibiotics for immunocompetent patients",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Prophylactic probiotics may be considered for inpatients receiving antibiotics during high-risk period (such as outbreaks) before the disease develops",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+            {
+              "value":"Probiotics should be not used in immunocompromised patients",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Probiotics for prevention of recurrent CDI may be an effective adjunct to standard antibiotic treatment (vancomycin) in patients with at least one prior episode of CDI",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Fecal microbiota transplantation",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Fecal microbiota transplantation (FMT) may be an effective option for patients with multiple recurrences of CDI who have failed appropriate antibiotic treatments",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Monoclonal antibodies",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Coadjuvant treatment with monoclonal antibodies (bezlotoxumab) may prevent recurrences of CDI, particularly in patients with CDI due to the 027 epidemic strain, in immunocompromised patients and in patients with severe CDI",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Intravenous immunoglobulin",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Intravenous immunoglobulin (IVIG) should only be used as adjunct therapy in patients with multiple recurrent or fulminant CDI until results from large, randomized controlled trials are available",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Enteral nutrition in CDI",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Tube feeding patients should be clinically assessed due to their risk for developing CDI",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Anti-motility agents",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"The use of anti-peristaltic agents for the treatment of CDI should be discouraged. If anti-peristaltic agents are used to control persistent symptoms in patients with CDI, they must always be accompanied by medical therapy",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    }
+  ]
+}

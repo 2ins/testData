@@ -1,0 +1,1065 @@
+{
+  "value":"APPENDICITIS",
+  "level":0,
+  "children":[
+    {
+      "value":"Diagnosis",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"What is the value of clinical scoring systems in the management of adult patients with suspected appendicitis? Can they be used as a basis for a structured management?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Establishing the diagnosis of acute appendicitis based on clinical presentation and physical examination may be challenging. As the value of individual clinical variables to determine the likelihood of acute appendicitis in a patient is low, a tailored individualized approach is recommended, depending on disease probability, sex, and age of the patient.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend to adopt a tailored individualized diagnostic approach for stratifying the risk and disease probability and planning an appropriate stepwise diagnostic pathway in patients with suspected acute appendicitis, depending on age, sex and clinical signs and symptoms of the patient",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Clinical scores alone, e.g. Alvarado score, AIR score, and the new Adult Appendicitis Score are sufficiently sensitive to exclude acute appendicitis, accurately identifying low-risk patients and decreasing the need for imaging and the negative appendectomy rates in such patients.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend the use of clinical scores to exclude acute appendicitis and identify intermediate-risk patients needing of imaging diagnostics",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest not making the diagnosis of acute appendicitis in pregnant patients on symptoms and signs only. Laboratory tests and inflammatory serum parameters should always be requested",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"The Alvarado score is not sufficiently specific in diagnosing acute appendicitis in adults, seems unreliable in differentiating complicated from uncomplicated acute appendicitis in elderly patients and is less sensitive in patients with HIV.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest against the use of Alvarado score to positively confirm the clinical suspicion of acute appendicitis in adults",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"The AIR score and the AAS score seem currently to be the best performing clinical prediction scores and have the highest discriminating power in adults with suspected acute appendicitis. The AIR and AAS scores decrease negative appendectomy rates in low-risk groups and reduce the need for imaging studies and hospital admissions in both low and intermediate-risk groups.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend the use of AIR score and AAS score as clinical predictors of acute appendicitis",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"In pediatric patients with suspected acute appendicitis could the diagnosis be based only on clinical scores?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"In pediatric patients with suspected acute appendicitis, the Alvarado score and Pediatric Appendicitis Score are useful tools in excluding acute appendicitis.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In pediatric patients with suspected acute appendicitis, we suggest against making a diagnosis based on clinical scores alone",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"What is the role of serum biomarkers in evaluating adult patients presenting with clinical features evocative of acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Biochemical markers represent a promising reliable diagnostic tool for the identification of both negative cases or complicated acute appendicitis in adults. However, further high-quality evidence is needed [QoE: Low; No recommendation].",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"What is the role of serum biomarkers in evaluating pediatric patients presenting clinical features highly suggestive of acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"White blood cell count, the differential with the calculation of the absolute neutrophil count, and the CRP are useful lab tests in predicting acute appendicitis in children; moreover, CRP level on admission ≥ 10 mg/L and leucocytosis ≥ 16,000/mL are strong predictive factors for appendicitis in pediatric patients.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In evaluating children with suspected appendicitis, we recommend to request routinely laboratory tests and serum inflammatory biomarkers",
+              "level":3,
+              "gor":"_1D",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In pediatric patients with suspected acute appendicitis, we suggest adopting both biomarker tests and scores in order to predict the severity of the inflammation and the need for imaging investigation",
+              "level":3,
+              "gor":"_2D",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"What is the optimum pathway for imaging in adult patients with suspected acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Combination of US and clinical (e.g. AIR, AAS scores) parameters forming combined clinico-radiological scores may significantly improve diagnostic sensitivity and specificity and eventually replace the need for a CT scan in adult patients with suspected acute appendicitis.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend the routine use of a combination of clinical parameters and US to improve diagnostic sensitivity and specificity and reduce the need for CT scan in the diagnosis of acute appendicitis. The use of imaging diagnostics is recommended in patients with suspected appendicitis after an initial assessment and risk stratification using clinical scores",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Intermediate-risk classification identifies patients likely to benefit from observation and systematic diagnostic imaging.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest proceeding with timely and systematic diagnostic imaging in patients with intermediate-risk of acute appendicitis",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 1.10 Patients with strong signs and symptoms and high-risk of  appendicitis according to AIR score/Alvarado score/AAS score and younger than 40 years may not require cross-sectional pre-operative imaging (i.e., CT scan).",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest that cross-sectional imaging (i.e., CT scan) in high-risk patients younger than 40 years old (with AIR score 9–12 and Alvarado score 9–10 and AAS ≥ 16) may be avoided before proceeding to diagnostic +/− therapeutic laparoscopy",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"POCUS (Point-of-care Ultrasound) is a reliable initial investigation with satisfactory sensitivity and specificity in diagnosing acute appendicitis, easing swift decision-making by the emergency physicians or surgeons. POCUS, if per- formed by an experienced operator, should be considered the most appropriate first-line diagnostic tool in both adults and children.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend POCUS as the most appropriate first-line diagnostic tool in both adults and children, if an imaging investigation is indicated based on clinical assessment",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"When it is indicated, contrast-enhanced low-dose CT scan should be preferred over contrast-enhanced standard-dose CT scan. Diagnostic accuracy of contrast-enhanced low-dose CT is not inferior to standard CT in diagnosing AA or distinguishing between uncomplicated and complicated acute appendicitis and enables significant radiation dose reduction.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend the use of contrast-enhanced low-dose CT scan over contrast-enhanced standard-dose CT scan for adolescents and young adults with suspected acute appendicitis and negative US findings",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In patients with normal investigations and symptoms unlikely to be acute appendicitis but which do not settle, cross-sectional imaging is recommended before surgery. Laparoscopy is recommended to establish/exclude the diagnosis of acute appendicitis and eventually treat the disease.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Recommendation 1.12 We recommend cross-sectional imaging before surgery for patients with normal investigations but non-resolving right iliac fossa pain. After negative imaging, initial non-operative treatment is appropriate. However, in patients with progressive or persistent pain, explorative laparoscopy is recommended to establish/exclude the diagnosis of acute appendicitis or alternative diagnoses",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"MRI is sensitive and highly specific for the diagnosis of acute appendicitis during pregnancy. However, a negative or inconclusive MRI does not exclude appendicitis and surgery should be still considered if high clinical suspicion.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Recommendation 1.13.1 We suggest graded compression trans-abdominal ultrasound as the preferred initial imaging method for suspected acute appendicitis during pregnancy",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest MRI in pregnant patients with suspected appendicitis, if this resource is available, after inconclusive US",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"What is the optimum pathway for imaging in pediatric patients with suspected acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"The use of US in children is accurate and safe in terms of perforation rates, emergency department re-visits, and negative appendectomy rates. CT use may be decreased by using appropriate clinical and/or staged algorithm with US/MRI. MRI has at least the same sensitivity and specificity as CT and, although higher costs, should be preferred over CT as second-line imaging in children.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In pediatric patients with suspected appendicitis, we suggest the use of US as first-line imaging. In pediatric patients with inconclusive US, we suggest choosing the second-line imaging technique based on local availability and expertise, as there are currently no strong data to suggest a best diagnostic pathway due to a variety of options and dependence on local resources",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Since in pediatric patients with equivocal CT finding the prevalence of true acute appendicitis is not negligible, we suggest against the routine use of CT as first-line imaging in children with right iliac fossa pain",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Non-operative management of uncomplicated acute appendicitis",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Is non-operative management with or without antibiotics a safe and effective treatment option for adult patients with uncomplicated acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"The antibiotic-first strategy can be considered safe and effective in selected patients with uncomplicated acute appendicitis. Patients who wish to avoid surgery must be aware of a risk of recurrence of up to 39% after 5 years. Most recent data from meta-analyses of RCTs showed that NOM with antibiotics achieves a significantly lower overall complication rate at 5 years and shorter sick leave compared to surgery.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend discussing NOM with antibiotics as a safe alternative to surgery in selected patients with uncomplicated acute appendicitis and absence of appendicolith, advising of the possibility of failure and misdiagnosing complicated appendicitis",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest against treating acute appendicitis non-operatively during pregnancy until further highlevel evidence is available",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Is non-operative management with or without antibiotics a safe and effective treatment option for pediatric patients with uncompli- cated acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"NOM for uncomplicated acute appendicitis in children is feasible, safe and effective as initial treatment. However, failure rate increases in the presence of appendicolith, and surgery is recommended in such cases.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest discussing NOM with antibiotics as a safe and effective alternative to surgery in children with uncomplicated acute appendicitis in the absence of an appendicolith, advising of the possibility of failure and misdiagnosing complicated appendicitis",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"What is the best non-operative management of patients with uncomplicated acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Current evidence supports initial intravenous antibiotics with subsequent conversion to oral antibiotics until further evidence from ongoing RCT is available.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In the case of NOM, we recommend initial intravenous antibiotics with a subsequent switch to oral antibiotics based on patient's clinical conditions",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Uncomplicated acute appendicitis may safely resolve spontaneously with similar treatment failure rates, shorter length of stay and costs compared with antibiotics. However, there is still limited data for the panel to express in favor of or against the symptomatic treatment without antibiotics [QoE: Moderate; No recommendation].",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Timing of appendectomy and in-hospital delay 4. Surgical treatment",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Does in-hospital delay increase the rate of complications or perforation for adult patients with uncomplicated acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Short, in-hospital surgical delay up to 24 h is safe in uncomplicated acute appendicitis and does not increase complications and/or perforation rate in adults. Surgery for uncomplicated acute appendicitis can be planned for the next available list minimizing delay wherever possible (better patient comfort, etc.). Short, in-hospital delay with observation and repeated trans-abdominal US in pregnant patients with equivocal appendicitis is acceptable and does not seem to increase the risk of maternal and fetal adverse outcomes.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend planning laparoscopic appendectomy for the next available operating list within 24 h in case of uncomplicated acute appendicitis, minimizing the delay wherever possible",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Delaying appendectomy for uncomplicated acute appendicitis for up to 24 h after admission does not appear to be a risk factor for complicated appendicitis, postoperative surgical site infection or morbidity. Conversely, appendectomies performed after 24 h from admission are related to an increased risk of adverse outcomes.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend against delaying appendectomy for acute appendicitis needing surgery beyond 24 h from the admission",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Does in-hospital delay increase the rate of complications or perforation for pediatric patients with uncomplicated acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Appendectomy performed within the first 24 h from presentation in the case of uncomplicated appendicitis is not associated with an increased risk of perforation or adverse outcomes. Early appendectomy is the best management in complicated appendicitis.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest against delaying appendectomy for pediatric patients with uncomplicated acute appendicitis needing surgery beyond 24 h from the admission. Early appendectomy within 8 h should be performed in case of complicated appendicitis",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Surgical treatment",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Does laparoscopic appendectomy confer superior outcomes compared with open appendectomy for adult patients with acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Laparoscopic appendectomy offers significant advantages over open appendectomy in terms of less pain, lower incidence of surgical site infection, decreased length of hospital stay, earlier return to work, overall costs, and better quality of life scores.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend laparoscopic appendectomy as the preferred approach over open appendectomy for both uncomplicated and complicated acute appendicitis, where laparoscopic equipment and expertise are available",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Does laparoscopic appendectomy confer superior outcomes compared with open appendectomy for pediatric patients with acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Laparoscopic appendectomy is associated with lower postoperative pain, lower incidence of SSI and higher quality of life in children.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Recommendation 4.2 We recommend laparoscopic appendectomy should be preferred over open appendectomy in children where laparoscopic equipment and expertise are available",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend laparoscopic appendectomy should be preferred over open appendectomy in children where laparoscopic equipment and expertise are available",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Does laparoscopic single-incision surgery confer any advantage over the three-trocar technique in performing laparoscopic appendec- tomy for adult patients with acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Single-incision laparoscopic appendectomy is basically feasible, safe, and as effective as conventional three-port laparoscopic appendectomy, op- erative times are longer, requires higher doses of analgesia, and is associated with a higher incidence of wound infection.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend conventional three-port laparoscopic appendectomy over single-incision laparoscopic appendectomy, as the conventional laparoscopic approach is associated with shorter operative times, less postoperative pain, and lower incidence of wound infection",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Does laparoscopic single-incision surgery confer any advantage over the three-trocar technique in performing laparoscopic appendec- tomy for pediatric patients with acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"In children with acute appendicitis, the single incision/ transumbilical extracorporeal laparoscopic-assisted technique is as safe as the lap- aroscopic three-port technique.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In pediatric patients with acute appendicitis and favorable anatomy, we suggest performing single incision/transumbilical extracorporeal laparoscopic assisted appendectomy or traditional three-port laparoscopic appendectomy based on local skills and expertise",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Is outpatient laparoscopic appendectomy safe and feasible for patients with uncomplicated acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Outpatient laparoscopic appendectomy for uncomplicated acute appendicitis is feasible and safe without any difference in morbidity and  readmission rates. It is associated with potential benefits of earlier recovery after surgery and lower hospital and social costs.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest the adoption of outpatient laparoscopic appendectomy for uncomplicated appendicitis, provided that an ambulatory  pathway with well-defined ERAS protocols and patient information/consent are locally established",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Is laparoscopic appendectomy indicated over open appendectomy in specific patient groups?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Statement 4.6 Laparoscopic appendectomy seems to show relevant advantages compared to open appendectomy in obese adult patients, older patients, and patients with comorbidities. Laparoscopic appendectomy is associated with reduced mortality, reduced overall morbidity, reduced superficial wound infections, shorter operating times and postoperative length of hospital stay in such patients.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest laparoscopic appendectomy in obese patients, older patients and patients with high periand postoperative risk factors",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Laparoscopic appendectomy during pregnancy is safe in terms of risk of fetal loss and preterm delivery and it is preferable to open surgery as associated to shorter length of hospital stay and lower incidence of surgical site infection.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Recommendation 4.7 We suggest laparoscopic appendectomy should be preferred to open appendectomy in pregnant patients when surgery is indicated. Laparoscopy is technically safe and feasible during pregnancy where expertise of laparoscopy is available",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Does aspiration alone confer clinical advantages over lavage and aspiration for patients with complicated acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Peritoneal irrigation does not have any advantage over suction alone in complicated appendicitis in both adults and children. The performance of irrigation during laparoscopic appendectomy does not seem to prevent the development of IAA and wound infections in neither adults nor pediatric patients.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend performing suction alone in complicated appendicitis patients with intra-abdominal collections undergoing laparoscopic appendectomy",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Does the type of mesoappendix dissection technique (endoclip, endoloop, electrocoagulation, Harmonic Scalpel, or LigaSure) produce different clinical outcomes for patients with acute appendicitis undergoing appendectomy?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"There are no clinical differences in outcomes, length of hospital stay and complications rates between the different techniques described for mesentery dissection (monopolar electrocoagulation, bipolar energy, metal clips, endoloops, LigaSure, Harmonic Scalpel, etc.).",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest the use of monopolar electrocoagulation and bipolar energy as they are the most cost-effective techniques, whereas other energy devices can be used depending on the intra-operative judgment of the surgeon and resources available",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Does the type of stump closure technique (stapler or endoloop, ligation or invagination of the stump) produce different clinical outcomes for patients with acute appendicitis undergoing appendectomy?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"There are no clinical advantages in the use of endostaplers over endoloops for stump closure for both adults and children in either simple or complicated appendicitis, except for a lower incidence of wound infection when using endostaplers in children with uncomplicated appendicitis. Polymeric clips may be the cheapest and easiest method (with shorter operative times) for stump closure in uncomplicated appendicitis.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Recommendation 4.10  We recommend the use of endoloops/suture ligation or polymeric clips for stump closure for both adults and children in either uncomplicated or complicated appendicitis, whereas endostaplers may be used when dealing with complicated cases depending on the intra-operative judgment of the surgeon and resources available",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Simple ligation should be preferred to stump inversion, either in open or laparoscopic surgery, as the major morbidity and infectious complications are similar. Simple ligation is associated with shorter operative times, less postoperative ileus and quicker recovery.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend simple ligation over stump inversion either in open and laparoscopic appendectomy",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Is the use of abdominal drains recommended after appendectomy for complicated acute appendicitis in adult patients?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"In adult patients, the use of drains after appendectomy for perforated appendicitis and abscess/peritonitis should be discouraged. Drains are of no benefit in preventing intra-abdominal abscess and lead to longer length of hospitalization and there is also low-quality evidence of increased 30-day morbid- ity and mortality rates in patients in the drain group.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend against the use of drains following appendectomy for complicated appendicitis in adult patients",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Is the use of abdominal drains recommended after appendectomy for complicated acute appendicitis in pediatric patients?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"The prophylactic use of abdominal drainage after laparoscopic appendectomy for perforated appendicitis in children does not prevent postoperative complications and may be associated with negative outcomes.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest against the prophylactic use of abdominal drainage after laparoscopic appendectomy for complicated appendicitis in children",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"What are the best methods to reduce the risk of SSI in open appendectomies with contaminated/dirty wounds?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"The use of wound ring protectors shows some evidence of surgical site infection reduction in open appendectomy, especially in case of complicated appendicitis with contaminated/dirty wounds.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend wound ring protectors in open appendectomy to decrease the risk of SSI",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Delayed primary skin closure increases the length of hospital stay and overall costs in open appendectomies with contaminated/dirty wounds and does not reduce the risk of SSI. Subcuticular suture seems preferable in open appendectomy for acute appendicitis as it is associated with lower risk of complications (surgical site infection/abscess and seroma) and lower costs.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend primary skin closure with a unique absorbable intradermal suture for open appendectomy wounds",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Intra-operative grading of acute appendicitis",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"What is the value of scoring systems for intra-operative grading of acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"The incidence of unexpected findings in appendectomy specimens is low. The intra-operative diagnosis alone is insufficient for identifying unexpected disease. From the currently available evidence, routine histopathology is necessary.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend routine histopathology after appendectomy",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Operative findings and intra-operative grading seem to correlate better than histopathology with morbidity, overall outcomes, and costs, both in adults and children. Intra-operative grading systems can help the identification of homogeneous groups of patients, determining optimal postoperative manage- ment according to the grade of the disease and ultimately improve the utilization of resources.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest the routine adoption of an intra-operative grading system for acute appendicitis (e.g., WSES 2015 grading score or AAST EGS grading score) based on clinical, imaging and operative findings",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Should the macroscopically normal appendix be removed during laparoscopy for acute right iliac fossa pain when no other explanatory pathology is found?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Surgeon’s macroscopic judgment of early grades of acute appendicitis is inaccurate and highly variable. The variability in the intra-operative classification of appendicitis influences the decision to prescribe postoperative an- tibiotics and should be therefore prevented/avoided.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest appendix removal if the appendix appears “normal” during surgery and no other disease is found in symptomatic patients",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Management of perforated appendicitis with phlegmon or abscess",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Is early appendectomy an appropriate treatment compared with delayed appendectomy for patients with perforated acute appendicitis with phlegmon or abscess?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Non-operative management is a reasonable first-line treatment for appendicitis with phlegmon or abscess. Percutaneous drainage as an adjunct to antibiotics, if accessible, could be beneficial, although there is a lack of evidence for its use on a routine basis. Laparoscopic surgery in experienced hands is a safe and feasible first-line treatment for appendiceal abscess, being associated with fewer readmissions and fewer additional interventions than conservative treat- ment, with a comparable hospital stay.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest non-operative management with antibiotics and—if available—percutaneous drainage for complicated appendicitis with periappendicular abscess, in settings where laparoscopic expertise is not available",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Operative management of acute appendicitis with phlegmon or abscess is a safe alternative to non-operative management in experienced hands, and may be associated with shorter LOS, reduced need for readmissions and fewer additional interventions than conservative treatment.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest the laparoscopic approach as treatment of choice for patients with complicated appendicitis with phlegmon or abscess where advanced laparoscopic expertise is available, with a low threshold for conversion.",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Is interval appendectomy always indicated for patients with acute appendicitis following successful NOM?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"The reported rate of recurrence after non-surgical treatment for perforated AA and phlegmon ranges from 12% to 24%. Interval appendectomy and repeated NOM in case of recurrence of appendiceal phlegmon are associated with similar morbidity. However, elective interval appendectomy is related to add- itional operative costs to prevent recurrence in only one of eight patients, such as not to justify the routine performance of appendectomy.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend against routine interval appendectomy after NOM for complicated appendicitis in young adults (< 40 years old) and children. Interval appendectomy is recommended for those patients with recurrent symptoms",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"The incidence of appendicular neoplasms is high (3–17%) in adult patients ≥ 40 years old) with complicated appendicitis.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We suggest both colonic screening with colonoscopy and interval full-dose contrast-enhanced CT scan for patients with appendicitis treated non-operatively if ≥ 40 years old",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Perioperative antibiotic therapy",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Is preoperative antibiotic therapy recommended for patients with acute appendicitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"A single dose of broad-spectrum antibiotics given preoperatively (from 0 to 60 min before the surgical skin incision) has been shown to be effective in decreasing wound infection and postoperative intra-abdominal abscess, regard- less of the degree of inflammation of the removed appendix.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend a single preoperative dose of broadspectrum antibiotics in patients with acute appendicitis undergoing appendectomy. We recommend against postoperative antibiotics for patients with uncomplicated appendicitis",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Are postoperative antibiotics always indicated in adult patients following appendectomy? Q.7.3: Are postoperative antibiotics always indicated in pediatric patients following appendectomy?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"In patients with complicated acute appendicitis, postoperative broad-spectrum antibiotics are suggested, especially if complete source control has not been achieved. For adult patients deemed to require them, discontinu- ation of antibiotics after 24 h seems safe and is associated with shorter length of hospital stay and lower costs. In patients with intra-abdominal infections who had undergone an adequate source control, the outcomes after fixed-duration anti- biotic therapy (approximately 3–5 days) are similar to those after a longer course of antibiotics.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend against prolonging antibiotics longer than 3–5 days postoperatively in case of complicated appendicitis with adequate source-control",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Are postoperative antibiotics always indicated in pediatric patients following appendectomy?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Administering postoperative antibiotics orally in children with complicated appendicitis for periods shorter than 7 days postoperatively seems to be safe and it is not associated with increased risk of complications. Early transition to oral antibiotics is safe, effective, and cost-efficient in the treatment of complicated appendicitis in the child.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"We recommend early switch (after 48 h) to oral administration of postoperative antibiotics in children with complicated appendicitis, with an overall length of therapy shorter than 7 days",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Postoperative antibiotics after appendectomy for uncomplicated acute appendicitis in children seems to have no role in reducing the rate of surgical site infection.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In pediatric patients operated for uncomplicated acute appendicitis, we suggest against using postoperative antibiotic therapy",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,15 @@
 {
-  "score": {
-    "schema": {
-      "type": "DEFAULT",
-      "message": ""
-    }   
+    "score": {
+      "schema": {
+        "type": "SNG_NO_MSG",
+        "message": ""
+      },
+      "ranges": [
+        {
+          "points": 0,
+          "value": "defalut value"
+        }
+        
+      ]
+    }
   }
-}

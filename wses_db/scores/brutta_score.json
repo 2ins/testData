@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "score": {
       "schema": {
         "type": "SNG_NO_MSG",
@@ -13,3 +14,19 @@
       ]
     }
   }
+=======
+  "score": {
+    "schema": {
+      "type": "SNG_NO_MSG",
+      "message": ""
+    },
+    "ranges": [
+      {
+        "points": 0,
+        "value": "defalut value"
+      }
+      
+    ]
+  }
+}
+>>>>>>> 2a6cf71a18e8e1405675bade595e0bf6b0afb2c6
